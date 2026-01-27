@@ -46,8 +46,7 @@
 ---
 
 ### 📂 Meus Destaques
-- 📌 **[Projeto_Nome]**: Descrição rápida do que você fez com Java/Python.
-- 📌 **[Projeto_BD]**: Exemplo de modelagem MySQL que você criou.
+- 📌 **[PraticasEmJava]**: https://github.com/R4FFA-coder/PraticandoJava ® Minha trilha de aprendizado na faculdade, contendo exercícios de lógica e fundamentos da linguagem.
 
 ---
 
