@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/render?type=waving&color=0056b3&height=200&section=header&text=Olá,%20sou%20o%20Rafael!&fontSize=70" width="100%" />
   
   <h3>👨‍💻 Estudante de Sistemas de Informação na UNINTER</h3>
-  <p>Focado em desenvolvimento Back-end, Automação e Banco de Dados.</p>
+  <p>Focado em desenvolvimento Full-stacks, Sistemas e Banco de Dados.</p>
 </div>
 
 <div align="center">
@@ -16,10 +16,10 @@
 
 ### 🚀 Sobre Mim
 - 🎓 Cursando **Sistemas de Informação** no Centro Universitário Internacional (UNINTER).
-- ☕ Desenvolvedor **Java** focado em lógica e estruturas robustas.
+- ☕ Desenvolvedor **Java** Orientado à objetos.
 - 🐍 Entusiasta de **Python** para automação e análise de dados.
 - 🗄️ Experiência na criação e manipulação de bancos de dados relacionais com **MySQL**.
-- 📫 Como me encontrar: [Seu LinkedIn Aqui] ou pelo próprio GitHub.
+- 📫 Como me encontrar:(https://www.linkedin.com/in/rafael-reis-ab9123384/) ou pelo próprio GitHub.
 
 ---
 
